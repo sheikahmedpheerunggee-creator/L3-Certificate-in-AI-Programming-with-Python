@@ -1,5 +1,5 @@
 n = input("Enter your name: ") # enter yr usernme assigned to variable n
-age = 25
+age = 50
 print("Welcome", n)
 user_name = input("Enter your name: ") # enter yr nmae
 print("Welcome", user_name)
